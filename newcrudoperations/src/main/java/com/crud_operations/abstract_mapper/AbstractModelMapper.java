@@ -42,6 +42,8 @@ public abstract class AbstractModelMapper<E, M> extends ModelMapper {
 	public abstract Class<M> modelType();
 	
 	
+	
+	
 
 }
 
